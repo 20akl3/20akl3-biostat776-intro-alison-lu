@@ -1,3 +1,3 @@
-# 20akl3-biostat776-intro-alison-lu
+# Project 0
 
 An introductory website

@@ -1,0 +1,27 @@
+---
+title: "Biostats 776"
+author: "Alison Lu"
+output: html_document
+---
+
+# Background
+
+Hello there! My name is Alison Lu and I'm a second year ScM student in the MMI department.I majored in Biology and Economics in undergrad before starting grad school here at Hopkins. I used a decent amount of STATA for a couple of my econ courses and am excited to get into R!
+
+# Research
+
+My current research is focused on expansion microscopy and utilizing it to image mitochondrial changes/effects after viral infections. Some of the image processing programs I run actually use machine learning to help clean everything up, which I find pretty cool.
+
+# Fun facts
+
+1. I've won a national championship in soccer during my sophomore year of college.
+2. I can perform 3 magic tricks well... and 2 others, not so well.
+3. I can solve a rubik's cube in under a minute.
+4. Once "caught" a homerun at a Red Sox's game.
+5. Will go to semi-extreme lengths for a good concert. Drove 3 hours into NY on a Thursday and drove back Friday morning in time for my 9am :)
+
+# Website plug
+
+http://www.foddy.net/Athletics.html
+
+A game that is quite hilarious to see in action yet extremely frustrating to actually play. I'm pretty sure I move backwards more than I do forwards.
